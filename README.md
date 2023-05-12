@@ -4,7 +4,7 @@
 [![releases](https://img.shields.io/github/v/release/xensik/menu-tool)](https://github.com/xensik/menu-tool/releases)
 [![paypal](https://img.shields.io/badge/PayPal-support-blue.svg?logo=paypal)](https://www.paypal.me/xensik)
 
-# MENU Tool
+# Menu Tool
 A utility to parse & dump IW engine legacy UI scripts.
 
 ## Supported Games
